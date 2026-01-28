@@ -10,7 +10,7 @@ export default function Home() {
       <header className="w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-2">
-            <img src="/logo.png" alt="Namespace" width={32} height={32} />
+            <img src="/logo.png" alt="Namespace" width={150} height={40} />
           </div>
           <CustomConnectButton/>
         </div>
